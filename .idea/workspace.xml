@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4536968-ef41-49cb-a7ad-342f14cc58f6" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Adding_Paragraph_Between_Cloned_HWPFIle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Adding_Paragraph_Between_HWPFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Changing_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Changing_PaperSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Changing_ParagraphText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Cloning_HWPFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Extracting_Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Extracting_Text_From_Big_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Extracting_Text_With_ParaHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Finding_AllField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Finding_Control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Getting_ClickHere_FieldText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_CharShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_HeaderFooter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_HyperLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_Image_Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_Section_And_Changing_PaperSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Inserting_Table_WithImageBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Making_BlankFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Making_Caption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Merging_Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Reading_HWP_FromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Reading_HWP_FromURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Removing_Table_Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Rewriting_HWPFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Setting_CellText_By_Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Setting_ClickHere_FieldText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/Setting_FieldText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/sample/SimpleEditing_HWPFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/writer/autosetter/ForDocInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/dogfoot/hwplib/writer/autosetter/ForDocInfo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qcAEwSWg015owjsRKbralRtm8T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding/Dahami/hwplib/src/main/java/kr/dogfoot/hwplib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Adding_Paragraph_Between_Cloned_HWPFIle.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Extracting_Text.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.kr.dogfoot.hwplib.sample.Extracting_Text.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Coding\Dahami\hwplib\src\main\java\kr\dogfoot\hwplib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\Dahami\hwplib\src\main\java\kr\dogfoot\hwplib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.kr.dogfoot.hwplib.sample.Extracting_Text">
+    <configuration name="Adding_Paragraph_Between_Cloned_HWPFIle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adding_Paragraph_Between_Cloned_HWPFIle" />
+      <module name="hwplib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extracting_Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extracting_Text" />
+      <module name="hwplib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kr.dogfoot.hwplib.sample.Extracting_Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.dogfoot.hwplib.sample.Extracting_Text" />
+      <module name="hwplib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.dogfoot.hwplib.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.kr.dogfoot.hwplib.sample.Extracting_Text" />
+        <item itemvalue="애플리케이션.Extracting_Text" />
+        <item itemvalue="애플리케이션.Adding_Paragraph_Between_Cloned_HWPFIle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="e4536968-ef41-49cb-a7ad-342f14cc58f6" name="변경" comment="" />
+      <created>1734951381487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734951381487</updated>
+      <workItem from="1734951382510" duration="251000" />
+      <workItem from="1734952370699" duration="1528000" />
+      <workItem from="1734955414650" duration="3163000" />
+      <workItem from="1734958652236" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
